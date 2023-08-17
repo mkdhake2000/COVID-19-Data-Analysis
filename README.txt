@@ -1,4 +1,4 @@
-# Plugins-
+Plugins-
 Software: python3 jupyter notebook (.sh files run python3 jupyter notebooks)
 
 Environments: python 3.7.3
